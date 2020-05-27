@@ -11,7 +11,7 @@ If you're only interested in caching images, I'd suggest taking a look at [**rea
 ## 🚀 installing
 
 ```bash
-yarn add react-native-basement # or npm -i -s react-native-basement
+yarn add react-native-basement # or npm i -s react-native-basement
 ```
 
 That's about it! Please check out the [**Getting Started**](./docs/GETTING-STARTED.md) guide for integration details. There's also an included [**Example App**](./example/App.js).
