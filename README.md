@@ -1,4 +1,7 @@
 # 📦 react-native-basement
+
+<img alt="code style: prettier" src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square">
+
 [**React Native Basement**](https://github.com/cawfree/react-native-basement) defines a way to easily cache remote dependencies, whether they're images, JSON or raw file content. Using the [`useBasement`](https://github.com/cawfree/react-native-basement/blob/161ac2ee4beee0ac66edb9fc0c54836e16ccbb2a/src/index.js#L54) hook, extensible declarative resource caching is a breeze. 🌊
 
 Caching a support is a little _patchy_ in React Native. There's [**iOS-only support for the Image component**](https://reactnative.dev/docs/images#cache-control-ios-only), or dedicated libraries for specific types.
