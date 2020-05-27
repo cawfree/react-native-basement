@@ -1,6 +1,6 @@
 {
   "name": "react-native-basement",
-  "version": "0.0.1-alpha.0",
+  "version": "0.0.1-alpha.1",
   "description": "🍭🧁⛱️📦Cache all kinds of remote dependencies.",
   "main": "dist",
   "repository": "https://github.com/cawfree/react-native-basement",
