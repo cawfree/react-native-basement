@@ -94,7 +94,7 @@ The resulting performance will be identical, however the cache entries will be l
 
 ### a different example
 
-The approach we've shown scales up to a lot of different applications. This time, let's imagine we want to cache a [Lottie Animation](https://github.com/react-native-community/lottie-react-native):
+The approach we've shown scales up to a lot of different applications. This time, let's imagine we want to cache a [**Lottie Animation**](https://github.com/react-native-community/lottie-react-native):
 
 ```javascript
 import React from "react";
