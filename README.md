@@ -6,7 +6,7 @@
 
 Caching support is a little _patchy_ in React Native. There's [**iOS-only support for the Image component**](https://reactnative.dev/docs/images#cache-control-ios-only), or dedicated libraries for specific kinds of content.
 
-If you're only interested in caching images, I'd suggest taking a look at [**react-native-cached-image**](https://github.com/kfiroo/react-native-cached-image). If you're interested in caching anything else, such as [**SVGs**](https://github.com/react-native-community/react-native-svg),  [**Videos**](https://github.com/react-native-community/react-native-video) or [**Lottie Animations**](https://github.com/react-native-community/lottie-react-native), then this project is your friend! (Yes, it does Images too, just not as optimally by comparison!)
+If you're only interested in caching images, I'd suggest taking a look at [**react-native-cached-image**](https://github.com/kfiroo/react-native-cached-image). If you're interested in caching anything else, such as [**SVGs**](https://github.com/react-native-community/react-native-svg),  [**Videos**](https://github.com/react-native-community/react-native-video) or [**Lottie Animations**](https://github.com/react-native-community/lottie-react-native), then this project is your friend! (Yes, it does images too, just not as optimally by comparison!)
 
 ## 🚀 installing
 
